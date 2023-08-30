@@ -1,0 +1,20 @@
+                                            {for PARENT}
+display: flex
+flex-direction: column-row- row-reverse - column-reverse
+background-color: transparent
+flex-wrap: nowrap - wrap - wrap-reverse 
+!important لجعل تنفيذ الكود ضروري
+justify-content: flex-end - flex-start - space-between - space-around - space-evenly 
+align-items: strich{default} - center - flex-start - flex-end
+<<<important for PARENT =>display: flex >>>
+
+                                             {for child}
+flex-grow: أي رقم  - {default= 0}  
+flex-shrink: أي رقم  - {default= 1}
+order: {default= 0}  - أي رقم  
+
+
+
+
+
+((((   Display: FLEX   ))))   مهم   
